@@ -148,6 +148,4 @@ public class Mercurytours_register {
 	}
 	
 	
-	
-	
 }
