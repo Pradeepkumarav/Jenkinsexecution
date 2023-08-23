@@ -144,9 +144,7 @@ public class Mercurytours_register {
 	public void validateregistered() {
 		String text=reause.getText(driver, validateusername);
 		System.out.println(text);
-		Assert.assertEquals(text, "Note: Your user name is pradeepkumara.");
-	
-		
+		Assert.assertEquals(text, "Note: Your user name is pradeepkumara.");	
 	}
 	
 	
