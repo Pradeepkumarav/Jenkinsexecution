@@ -65,7 +65,7 @@ public class Mercury__TC1_register extends baseclass {
 		objregister.submit();
 		test.pass("Clicked on submit successfully");
 		objregister.validateregistered();
-		test.pass("validation done successfully");
+		test.pass("validation is done successfully");
 		
 		}
 		
